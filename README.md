@@ -14,19 +14,15 @@
 
 <b>👨‍💻 Languages: </b>
 - Swift
-- Dart
 - Python
 - C++
 - HTML and CSS
-- Javascript
 - MySQL
 
 <b>🛠 Tools: </b>
 - MacBook
 - Xcode
 - Visual Studio Code
-- Android Studio
-- Flutter
 - Postman
 - Figma
 
