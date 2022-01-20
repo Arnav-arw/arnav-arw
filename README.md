@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
 
-### My name is Arnav Singhal and I'm a computer science student from Delhi, India. Here's some info about me!
+### My name is Arnav Singhal and I'm a computer science student from Manipal University Of Jaipur, India. Here's some info about me!
 
 <b>🌱 Interests:</b>
 - App development
