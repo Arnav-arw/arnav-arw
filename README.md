@@ -25,8 +25,8 @@
 <h4 align='center'><strong>🎨Design</strong></h4>
 <p align='center'>
 <img alt="TF" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/> 
+<img alt="TF" src="https://img.shields.io/badge/Pixelmator%20Pro-FA9B11?style=for-the-badge"/>
 <img alt="TF" src="https://img.shields.io/badge/Final%20Cut%20Pro-EBE53A?style=for-the-badge"/> 
-<img alt="TF" src="https://img.shields.io/badge/Pixelmator%20Pro-FA9B11?style=for-the-badge"/> 
 <img alt="TF" src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665"/> 
 </p>
 
