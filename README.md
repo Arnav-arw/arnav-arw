@@ -1,6 +1,6 @@
 <h1 align='center'><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
 
-<p align='center'> I'm Arnav Singhal, aspiring iOS developer, currently studying Computer Science in <br> Manipal University Of Jaipur, India </p>
+<p align='center'> I'm Arnav Singhal, aspiring full stack app developer, currently studying Computer Science in <br> Manipal University Of Jaipur, India </p>
 
 <h2 align='center'> Things I code with </h2>
 
