@@ -8,15 +8,10 @@
 <p align='center'>
 <img alt="TF" src="https://img.shields.io/badge/Swift-E34F26?style=for-the-badge&logo=Swift&logoColor=white"/>
 <img alt="TF" src="https://img.shields.io/badge/Python-3671A0?style=for-the-badge&logo=python&logoColor=white"/> 
-<img alt="TF" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img alt="TF" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-<img alt="TF" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img alt="TF" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 <img alt="TF" src="https://img.shields.io/badge/HTML5-E96328?style=for-the-badge&logo=html5&logoColor=white"/>
 <img alt="TF" src="https://img.shields.io/badge/CSS3-264BDC?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
-<p align='center'>
-<img alt="TF" src="https://img.shields.io/badge/MYSQL-F6A018?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img alt="TF" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+<img alt="TF" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </p>
 
 <h4 align='center'><strong>💻IDE</strong></h4>
@@ -42,13 +37,10 @@
 </p>
 
 <h4 align='center'><strong>🤙Contact Me</strong></h4>
+<p align="center"> <a href="https://mailxto.com/rl812g"> singhal.arnav@gmail.com </a> </p>
 <p align='center'>
-<a href="https://twitter.com/Arnav_arw">
-    <img alt="TF" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-<a href="https://www.instagram.com/arnav.arw/">
-    <img alt="TF" src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> 
 <a href="https://www.linkedin.com/in/arnav-singhal-64576b226/">
     <img alt="TF" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://linktr.ee/Arnav.arw">
-    <img alt="TF" src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"/></a>
+<a href="https://www.instagram.com/arnav.arw/">
+    <img alt="TF" src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
