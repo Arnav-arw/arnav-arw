@@ -37,7 +37,7 @@
 </p>
 
 <h4 align='center'><strong>🤙Contact Me</strong></h4>
-<p align="center"> <a href="https://mailxto.com/rl812g"> singhal.arnav@gmail.com </a> </p>
+<p align="center"> <a href="mailto:arnavsinghal.developer@gmail.com"> Tap to mail me! </a> </p>
 <p align='center'>
 <a href="https://www.linkedin.com/in/arnav-singhal-64576b226/">
     <img alt="TF" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
