@@ -1,6 +1,6 @@
 <h1 align='center'><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
 
-<p align='center'> I'm Arnav Singhal, full stack iOS App Developer and AR/VR Developer, currently studying Computer Science in <br> Manipal University Of Jaipur, India </p>
+<p align='center'> I'm Arnav Singhal, a software developer who specialises in iOS and XR app development, currently studying Computer Science in <br> Manipal University Of Jaipur, India </p>
 
 <h2 align='center'> Things I code with </h2>
 
@@ -25,15 +25,6 @@
 <img alt="TF" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/> 
 <img alt="TF" src="https://img.shields.io/badge/Pixelmator%20Pro-FA9B11?style=for-the-badge"/>
 <img alt="TF" src="https://img.shields.io/badge/Final%20Cut%20Pro-EBE53A?style=for-the-badge"/> 
-<img alt="TF" src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665"/> 
-</p>
-
-<h4 align='center'><strong>🛠Tools</strong></h4>
-<p  align='center'>
-<img alt="TF" src="https://img.shields.io/badge/macos-000000?style=for-the-badge&logo=macos&logoColor=white"/> 
-<img alt="TF" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"/>
-<img alt="TF" src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/> 
-<img alt="TF" src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white"/> 
 </p>
 
 <h4 align='center'><strong>🤙Contact Me</strong></h4>
