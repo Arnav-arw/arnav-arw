@@ -33,6 +33,4 @@
     <img alt="TF" src="https://img.shields.io/badge/Mail-1C7EF3?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/arnav-singhal-64576b226/">
     <img alt="TF" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.instagram.com/arnav.arw/">
-    <img alt="TF" src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
